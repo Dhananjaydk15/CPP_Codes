@@ -5,7 +5,7 @@ Volume can be calculated as:
 volume = height * length * width
 Take the input from user (using scanf) and print the volume as a result.
 Use float data types for all variables*/
-//Dhananjay
+
 #include <stdio.h>
 int main()
 {
