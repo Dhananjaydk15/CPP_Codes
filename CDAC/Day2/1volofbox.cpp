@@ -11,7 +11,7 @@ int main()
 {
     float vol, l, w, h;
 
-    printf("-------- Volume  --------\n");
+    printf("-------- Volume of Box --------\n");
     printf("* Enter The value of length : ");
     scanf("%f", &l);
     printf("* Enter The value of width : ");
