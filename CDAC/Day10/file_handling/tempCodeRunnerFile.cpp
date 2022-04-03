@@ -1,0 +1,1 @@
+    char f_name[10];

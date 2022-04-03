@@ -1,0 +1,1 @@
+    printf("%d", arr[len - 1]);

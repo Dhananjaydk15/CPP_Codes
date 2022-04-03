@@ -1,0 +1,1 @@
+    // struct time_struct *t = &time; 
